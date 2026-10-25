@@ -1,0 +1,1 @@
+{"_comment":"Tier overrides may only RAISE a core floor (spec 6.1); a lowering override is rejected at load with TIER_FLOOR_VIOLATION. Kill switches halt writes (T1+) or reads (T0) family-wide for this core.","kill_reads":false,"kill_writes":false,"tier_overrides":{}}
