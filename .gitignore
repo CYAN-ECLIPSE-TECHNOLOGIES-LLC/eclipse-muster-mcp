@@ -7,3 +7,8 @@ keys/
 .env.*
 *.pyc
 state/
+
+# build residue
+*.egg-info/
+build/
+dist/
