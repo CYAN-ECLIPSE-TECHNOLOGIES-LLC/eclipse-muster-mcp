@@ -1,5 +1,7 @@
 # eclipse-muster
 
+mcp-name: io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/muster
+
 **What this is:** the MCP server for **Eclipse Muster** — the shared
 core of Cyan Eclipse Technologies' Eclipse customer adapter family.
 One canonical Customer Graph becomes governed reads, internal writes,
