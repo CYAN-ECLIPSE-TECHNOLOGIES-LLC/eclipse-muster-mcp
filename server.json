@@ -3,7 +3,7 @@
  "name": "io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/muster",
  "title": "Eclipse Muster MCP",
  "description": "The Customer Graph core: one register of the people an account serves, with provenance on every",
- "version": "0.1.0",
+ "version": "0.1.1",
  "websiteUrl": "https://eclipsebazaar.com",
  "icons": [
   {
@@ -24,14 +24,6 @@
    "identifier": "eclipse-muster",
    "version": "0.1.0",
    "runtimeHint": "uvx",
-   "transport": {
-    "type": "stdio"
-   }
-  },
-  {
-   "registryType": "oci",
-   "identifier": "ghcr.io/cyan-eclipse-technologies-llc/eclipse-muster-mcp:0.1.0",
-   "runtimeHint": "docker",
    "transport": {
     "type": "stdio"
    }
