@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# Eclipse Muster MCP
+# Copyright © 2026 Cyan Eclipse Technologies LLC · cetech.ai
+# Eclipse Muster v0.1 (C0) tests.
+
 """Eclipse Muster v0.1 (C0) tests.
 Run: python3 -m unittest discover tests"""
 import json
@@ -226,3 +230,5 @@ class TestChain(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+# Eclipse Muster MCP · © 2026 Cyan Eclipse Technologies LLC · cetech.ai

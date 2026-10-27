@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# Eclipse Muster MCP
+# Copyright © 2026 Cyan Eclipse Technologies LLC · cetech.ai
+# Generate icon-512.png — brand §6: eclipse motif on navy (#0d1b2a),
+
 """Generate icon-512.png — brand §6: eclipse motif on navy (#0d1b2a),
 one per-product glyph. Muster's glyph is the muster roll itself: a
 register of person-rows, two rows linked by a merge arc, inside the
@@ -47,3 +51,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Eclipse Muster MCP · © 2026 Cyan Eclipse Technologies LLC · cetech.ai

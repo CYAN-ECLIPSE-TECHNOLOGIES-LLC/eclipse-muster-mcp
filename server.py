@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Eclipse Muster MCP
+# Copyright © 2026 Cyan Eclipse Technologies LLC · cetech.ai
+
 """Eclipse Muster MCP — v0.1.0, phase C0 (Customer Graph core).
 
 Powered by Cyan Eclipse Technologies (cetech.ai).
@@ -808,3 +811,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Eclipse Muster MCP · © 2026 Cyan Eclipse Technologies LLC · cetech.ai

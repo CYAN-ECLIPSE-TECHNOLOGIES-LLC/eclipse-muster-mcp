@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# Eclipse Muster MCP
+# Copyright © 2026 Cyan Eclipse Technologies LLC · cetech.ai
+# End-to-end stdio smoke for Eclipse Muster v0.1 (C0).
+
 """End-to-end stdio smoke for Eclipse Muster v0.1 (C0).
 
 Temp state. Drives initialize -> ingest fixtures -> masked read ->
@@ -101,3 +105,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Eclipse Muster MCP · © 2026 Cyan Eclipse Technologies LLC · cetech.ai
